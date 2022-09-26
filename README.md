@@ -1,4 +1,4 @@
-# IthoWiFi_HRU_datacollector
+# IthoWiFi HRU datacollector
 Script to collect Itho WiFi HRU system values
 
 I have an Itho Daalderop HRU300, and connected it with the Itho WiFi module from Arjen Hiemstra (see https://github.com/arjenhiemstra/ithowifi ).
